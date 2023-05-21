@@ -65,6 +65,10 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <br><br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vanshgarg-1?cardType=github&theme=github-dark&preferLogin=false)](https://github.com/vanshgarg-1)
 
+<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=vanshgarg-1&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
