@@ -21,7 +21,7 @@
 ### A Student Trying To Learn Different Technologies
 
 - 👨‍🏭 I’m currently pursuing **B-Tech at VIT Bhopal** <br>
-- 🏫 I’m currently learning **Full Stack Web Devlopment and DSA and Data-Science** <br>
+- 🏫 I’m currently learning **Full Stack Web Development and DSA and Data-Science** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **DSA and Python Related Work**<br>
 - 🥅 2023 Goal : **To Become Better :)** <br>
