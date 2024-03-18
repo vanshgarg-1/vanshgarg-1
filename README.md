@@ -3,7 +3,6 @@
 ![MasterHead](https://github.com/rk-poddar/Images/blob/main/Banner_Img.gif)
 
 
-
 <h1 align="center">
 नमस्ते (Namaste) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , Vansh Garg <br>
 </h1>
