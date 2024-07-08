@@ -16,7 +16,8 @@
 
 <hr/>
 
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="I am coding" width="300" height="200">
+<!--<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="I am coding" width="300" height="200">-->
+<img align="right" src="https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif" alt="I am coding" width="300" height="200">
 
 
 ### A Student Trying To Learn Different Technologies
@@ -42,6 +43,10 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <hr/>
 <br>
 
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&" alt="vanshgarg-1" /></p>-->
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&theme=github-dark-blue" alt="vanshgarg-1" /></p>
 <!-- <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turwash&layout=compact&theme=blue-green" /> -->
 
