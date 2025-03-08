@@ -46,7 +46,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <hr/>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/rk-poddar/Images/blob/main/Sidebar_Img.gif" />
+<img align="right" alt="Coding" width="300" src="https://github.com/rk-poddar/Images/blob/main/Sidebar_Img.gif" />
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&" alt="vanshgarg-1" /></p>-->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&theme=github-dark-blue" alt="vanshgarg-1" /></p>
