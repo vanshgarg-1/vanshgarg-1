@@ -49,7 +49,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <img align="right" alt="Coding" width="300" src="https://github.com/rk-poddar/Images/blob/main/Sidebar_Img.gif" />
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&" alt="vanshgarg-1" /></p>-->
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg-1&theme=github-dark-blue" alt="vanshgarg-1" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanshgarg-1&theme=blue-navy)](https://git.io/streak-stats)
 <!-- <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 <!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turwash&layout=compact&theme=blue-green" /> -->
 
