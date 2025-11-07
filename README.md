@@ -7,6 +7,7 @@
 <h1 align="center">
 नमस्ते (Namaste) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , Vansh Garg <br>
 </h1>
+<h3 align="center">A Data Scientist & Certified Generative AI Expert</h3>
 
 <p align="center">
 
@@ -20,13 +21,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif" alt="I am coding" width="300" height="200">
 
 
-### A Student Trying To Learn Different Technologies
+<!-- ### A Data Scientist & Certified Generative AI Expert -->
 
-- 👨‍🏭 I’m currently pursuing **B-Tech at VIT Bhopal** <br>
-- 🏫 I’m currently Working on  **ML Models , Prompt Engineering and Generative AI** <br>
-- 🙌 I’m looking to collaborate on **AI & Model Building** <br>
-- 🥅 2025 Goal : **Master AI & Build Real-World Solutions!** <br>  
-- 🔗 Connect with me:  🚀[Hashnode](https://hashnode.com/@vanshgarg)  🌐 [Portfolio](https://vanshgarg.framer.website/)  🐦 [Twitter](https://twitter.com/yourhandle)   💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
+- 👨‍🏭 Currently working in **Machine Learning, Prompt Engineering & Generative AI** <br>
+- 🙌 Open to collaborations in **AI, LLMs & Model Development** <br>
+- 🥅 2026 Goal : **Deploy AI-driven real world solutions & contribute to open source** <br>  
+- 🔗 Connect with me:  🌐 [Portfolio](https://www.thevanshgarg.com)  🐦 [Twitter](https://twitter.com/vanshgarg_1)   💼 [LinkedIn](https://linkedin.com/in/contact-vanshgarg)  
 
 
 🕵 Take a look at my repositories and let's get in touch!<br>
@@ -82,6 +82,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
